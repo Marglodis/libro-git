@@ -1,3 +1,7 @@
-Capitulo 1: Introducción a Git
+Capitulo 4: Repositorios remotos[A
+
+[A[C[C[C[C[C[C[C[C[C[H[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[3;2~[3~1[F[B[C[C[C[C[C[C[C[C[C[C[C[C[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[F[B[D[3~[3~[A[3~[3~[3~[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[A[F[B[A[A[C[C[C[C[C[C[C[C[B[C[C[C[CIntroducción a Git[3~  
 Capitulo 2: Flujo de trabajo básico
-Capitulo 3: Repositorios remotos
+Capitulo 3: GEstión de ramas
+Capítulo 4: Repositorios remotos
